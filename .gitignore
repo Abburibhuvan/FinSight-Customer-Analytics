@@ -1,0 +1,6 @@
+# Keep local generated data and notebooks out of Git.
+Data/Raw/*
+!Data/Raw/.gitkeep
+
+Notebooks/*
+!Notebooks/.gitkeep
